@@ -2,7 +2,7 @@ proyecto de react, una vez clonado el repositorio se instalan las dependencias:
 
 npm install
 
-luejo se procede a ejecutar el codigo:
+luego se procede a ejecutar el codigo:
 
 npm start
 
